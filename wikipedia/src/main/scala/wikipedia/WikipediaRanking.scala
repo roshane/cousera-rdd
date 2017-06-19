@@ -122,11 +122,4 @@ object WikipediaRanking {
     timing.append(s"Processing $label took ${stop - start} ms.\n")
     result
   }
-
-  def wikipediaRddToPairRdd = {
-    val pairRdd: RDD[(String,String)] = wikiRdd.map(a => {
-      (a.title , a.text)
-    })
-    pairRdd
-  }
 }
