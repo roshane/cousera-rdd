@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c42e623-88c6-494a-9ee0-b7ea4cb16662" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resource/stackoverflow/stackoverflow.csv.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/stackoverflow/StackOverflow.scala" afterPath="$PROJECT_DIR$/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wikipedia/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../wikipedia/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" afterPath="$PROJECT_DIR$/../wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" />
-    </list>
+    <list default="true" id="2c42e623-88c6-494a-9ee0-b7ea4cb16662" name="Default" comment="" />
     <ignored path="stackoverflow.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="/media/roshane/4882479D82478E7E/Users/Aux-082/IdeaProjects/cousera-rdd/stackoverflow/target/" />
@@ -47,10 +42,10 @@
       <file leaf-file-name="StackOverflow.scala" pinned="false" current-in-tab="true">
         <entry file="file:///media/roshane/4882479D82478E7E/Users/Aux-082/IdeaProjects/cousera-rdd/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="587">
+              <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
               <folding>
-                <element signature="e#23#56#0" expanded="true" />
+                <element signature="e#23#90#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,8 +64,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="/media/roshane/4882479D82478E7E/Users/Aux-082/IdeaProjects/cousera-rdd/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
         <option value="/media/roshane/4882479D82478E7E/Users/Aux-082/IdeaProjects/cousera-rdd/stackoverflow/src/main/scala/stackoverflow/StackOverfloww/scala.scala" />
+        <option value="/media/roshane/4882479D82478E7E/Users/Aux-082/IdeaProjects/cousera-rdd/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
       </list>
     </option>
   </component>
@@ -725,12 +720,12 @@
       <workItem from="1497775251628" duration="1000" />
       <workItem from="1497801705660" duration="29000" />
       <workItem from="1497801751018" duration="11852000" />
-      <workItem from="1497863518189" duration="3048000" />
+      <workItem from="1497863518189" duration="4783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14930000" />
+    <option name="totallyTimeSpent" value="16665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -778,7 +773,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23#56#0" expanded="true" />
+            <element signature="e#23#90#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -825,10 +820,10 @@
     </entry>
     <entry file="file:///media/roshane/4882479D82478E7E/Users/Aux-082/IdeaProjects/cousera-rdd/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="587">
+          <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
           <folding>
-            <element signature="e#23#56#0" expanded="true" />
+            <element signature="e#23#90#0" expanded="true" />
           </folding>
         </state>
       </provider>
